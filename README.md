@@ -1,13 +1,13 @@
 # Hi 👋, I'm Jay Soni
 
-🚀 Full Stack Developer | Node.js | React | Next.js  
+🚀 Backend Developer | Node.js | Redis | Next.js  
 💻 Backend-heavy developer with strong API & DB experience  
 
 - 🔭 Currently working on scalable Node.js & PostgreSQL systems  
 - 🌱 Learning advanced system design & cloud  
 - 👯 Looking to collaborate on open-source projects  
 - 💬 Ask me about Node.js, MongoDB, PostgreSQL, Redis  
-- 📫 Reach me at: your-email@gmail.com
+- 📫 Reach me at: jaysoni27.dev@gmail.com
 
 ## 🛠 Tech Stack
 
@@ -17,8 +17,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
-## 📊 GitHub Stats
-
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaysoni2709&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysoni2709&layout=compact&theme=radical)
