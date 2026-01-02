@@ -17,3 +17,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Jaysoni2709&style=flat-square)
+
+
